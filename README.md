@@ -24,8 +24,10 @@ This is a **React application** for managing employee records. Users can **view,
 1. **Clone the Repository**
    git clone <your-repository-url>
    cd employee-dashboard
-2. **Install Dependencies**
+   
+3. **Install Dependencies**
    npm install
+   
 3.**Start the Development Server**
    npm start
 
