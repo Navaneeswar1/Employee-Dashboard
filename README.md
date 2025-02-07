@@ -36,7 +36,7 @@ This is a **React application** for managing employee records. Users can **view,
 
 
 
-
+## 🎯 Features
 ##The app will open at http://localhost:3000.
 
 ##🛠️ Tech Stack
