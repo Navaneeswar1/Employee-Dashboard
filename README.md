@@ -22,13 +22,16 @@ This is a **React application** for managing employee records. Users can **view,
 ### Steps to Run the Project:
 
 1. **Clone the Repository**
+    ```sh
    git clone <your-repository-url>
    cd employee-dashboard
    
 2. **Install Dependencies**
+    ```sh
    npm install
    
 3.**Start the Development Server**
+ ```sh
    npm start
 
 
