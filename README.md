@@ -36,18 +36,20 @@ This is a **React application** for managing employee records. Users can **view,
 
 
 
-## 🎯 Features
-##The app will open at http://localhost:3000.
+```
+   The app will open at **`http://localhost:3000`**.
 
-##🛠️ Tech Stack
-React (JavaScript)
-Tailwind CSS (for styling)
-Mock API (JSONPlaceholder)
-##🔹 Assumptions & Limitations
-👥 Employee data is fetched from a mock API (https://jsonplaceholder.typicode.com/users).
-🏢 Departments are predefined: Engineering, HR.
-⚠️ No backend storage: Employees added are not saved permanently.
-✅ Basic validation: Checks required fields & email format.
+## 🛠️ Tech Stack
+- **React (JavaScript)**
+- **Tailwind CSS** (for styling)
+- **Mock API** (JSONPlaceholder)
+
+## 🔹 Assumptions & Limitations
+- 👥 **Employee data is fetched from a mock API** (`https://jsonplaceholder.typicode.com/users`).
+- 🏢 **Departments are predefined**: Engineering, HR.
+- ⚠️ **No backend storage**: Employees added are not saved permanently.
+- ✅ **Basic validation**: Checks required fields & email format.
+
 
 
    
