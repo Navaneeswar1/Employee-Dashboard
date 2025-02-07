@@ -32,7 +32,7 @@ This is a **React application** for managing employee records. Users can **view,
    
 3.**Start the Development Server**
     ```sh
-     npm start
+    npm start
 
 
    
