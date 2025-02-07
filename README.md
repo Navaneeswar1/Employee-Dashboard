@@ -41,7 +41,7 @@ The app will open at **`http://localhost:3000`**.
 
 ## 🛠️ Tech Stack
 - **React (JavaScript)**
-- **Tailwind CSS** (for styling)
+- **CSS** (for styling)
 - **Mock API** (JSONPlaceholder)
 
 ## 🔹 Assumptions & Limitations
