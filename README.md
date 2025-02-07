@@ -30,8 +30,8 @@ This is a **React application** for managing employee records. Users can **view,
     ```sh
    npm install
    
-3.**Start the Development Server**
-   ```sh
+3. **Start the Development Server**
+    ```sh
     npm start
 
 
